@@ -89,6 +89,26 @@
       "date": "July 4",
       "time": "9:00",
       "organizer": "Adam Jahr"
+    },
+    {
+      "id": "5fdea8aa-0676-4bdd-8330-0e85652aaf05",
+      "category": "education",
+      "title": "Demo day",
+      "description": "Presentation to stakeholders",
+      "location": "Athens",
+      "date": "16/01/2022",
+      "time": "21:00",
+      "organizer": "Adam Jahr"
+    },
+    {
+      "id": "3c133081-cd77-470d-b1c6-c033bdfb4c83",
+      "category": "housing",
+      "title": "asdasd",
+      "description": "asdasd",
+      "location": "asdasd",
+      "date": "asdasd",
+      "time": "asdasd",
+      "organizer": "Adam Jahr"
     }
   ]
 }
